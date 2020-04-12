@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DatabaseExample</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_record">Add Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_address">Enter Phone Number</string>
+    <string name="title_activity_add_employee">AddEmployeeActivity</string>
+    <string name="enter_pan">Enter PAN No.</string>
+    <string name="enter_aadhar">Enter Aadhar No.</string>
+    <string name="enter_blood">Enter Blood Group (e.g. O+ve,O-ve etc.)</string>
+    <string name="enter_joindate">Enter Join Date (e.g. 19/01/2001)</string>
+    <string name="enter_punching">Enter Punching Number</string>
+    <string name="enter_basicpay">Enter Basic Pay</string>
+</resources>
