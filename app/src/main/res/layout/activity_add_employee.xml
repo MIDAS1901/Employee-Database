@@ -27,12 +27,11 @@
             android:id="@+id/address_edittext"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="@string/enter_address"
-            android:inputType="number"
-            android:layout_marginTop="20dp"
             android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"/>
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="15dp"
+            android:ems="10"
+            android:hint="@string/enter_address" />
         <EditText
             android:id="@+id/pan_edittext"
             android:layout_width="350dp"

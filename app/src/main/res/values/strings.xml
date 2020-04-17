@@ -5,7 +5,7 @@
     <string name="btn_update">Update</string>
     <string name="btn_delete">Delete</string>
     <string name="empty_list_text">No records found</string>
-    <string name="enter_address">Enter Phone Number</string>
+    <string name="enter_address">Enter Your Address</string>
     <string name="title_activity_add_employee">AddEmployeeActivity</string>
     <string name="enter_pan">Enter PAN No.</string>
     <string name="enter_aadhar">Enter Aadhar No.</string>
