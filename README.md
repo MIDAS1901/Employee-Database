@@ -1,4 +1,4 @@
-# DatabaseExample8
+# Employee Database 
 This is an android app that stores the various data of company employees in a sqlLite database. 
 
 
